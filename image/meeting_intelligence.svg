@@ -1,0 +1,58 @@
+<svg viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#064E3B"/><stop offset="100%" stop-color="#022C22"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg3)"/>
+  <rect x="60" y="40" width="680" height="370" rx="14" fill="#F8FAFC"/>
+  
+  <rect x="0" y="0" width="680" height="40" fill="#E2E8F0"/>
+  <circle cx="18" cy="20.0" r="5" fill="#FF5F56"/><circle cx="34" cy="20.0" r="5" fill="#FFBD2E"/><circle cx="50" cy="20.0" r="5" fill="#27C93F"/>
+  <rect x="80" y="9.0" width="240" height="22" rx="11" fill="#fff"/>
+  <text x="92" y="25.0" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#475569">sunny.ai/meet/142</text>
+
+  <g transform="translate(60,40)">
+    <!-- waveform bar -->
+    <rect x="0" y="40" width="680" height="50" fill="#ECFDF5"/>
+    <rect x="30" y="57" width="6" height="12" rx="3" fill="#10B981" opacity="0.5"/><rect x="44" y="51" width="6" height="24" rx="3" fill="#10B981" opacity="0.65"/><rect x="58" y="45" width="6" height="36" rx="3" fill="#10B981" opacity="0.8"/><rect x="72" y="54" width="6" height="18" rx="3" fill="#10B981" opacity="0.5"/><rect x="86" y="48" width="6" height="30" rx="3" fill="#10B981" opacity="0.65"/><rect x="100" y="41" width="6" height="44" rx="3" fill="#10B981" opacity="0.8"/><rect x="114" y="53" width="6" height="20" rx="3" fill="#10B981" opacity="0.5"/><rect x="128" y="49" width="6" height="28" rx="3" fill="#10B981" opacity="0.65"/><rect x="142" y="55" width="6" height="16" rx="3" fill="#10B981" opacity="0.8"/><rect x="156" y="46" width="6" height="34" rx="3" fill="#10B981" opacity="0.5"/><rect x="170" y="43" width="6" height="40" rx="3" fill="#10B981" opacity="0.65"/><rect x="184" y="52" width="6" height="22" rx="3" fill="#10B981" opacity="0.8"/><rect x="198" y="54" width="6" height="18" rx="3" fill="#10B981" opacity="0.5"/><rect x="212" y="47" width="6" height="32" rx="3" fill="#10B981" opacity="0.65"/><rect x="226" y="39" width="6" height="48" rx="3" fill="#10B981" opacity="0.8"/><rect x="240" y="50" width="6" height="26" rx="3" fill="#10B981" opacity="0.5"/><rect x="254" y="53" width="6" height="20" rx="3" fill="#10B981" opacity="0.65"/><rect x="268" y="44" width="6" height="38" rx="3" fill="#10B981" opacity="0.8"/><rect x="282" y="56" width="6" height="14" rx="3" fill="#10B981" opacity="0.5"/><rect x="296" y="48" width="6" height="30" rx="3" fill="#10B981" opacity="0.65"/><rect x="310" y="51" width="6" height="24" rx="3" fill="#10B981" opacity="0.8"/><rect x="324" y="42" width="6" height="42" rx="3" fill="#10B981" opacity="0.5"/><rect x="338" y="54" width="6" height="18" rx="3" fill="#10B981" opacity="0.65"/><rect x="352" y="49" width="6" height="28" rx="3" fill="#10B981" opacity="0.8"/><rect x="366" y="45" width="6" height="36" rx="3" fill="#10B981" opacity="0.5"/><rect x="380" y="52" width="6" height="22" rx="3" fill="#10B981" opacity="0.65"/><rect x="394" y="47" width="6" height="32" rx="3" fill="#10B981" opacity="0.8"/><rect x="408" y="55" width="6" height="16" rx="3" fill="#10B981" opacity="0.5"/><rect x="422" y="50" width="6" height="26" rx="3" fill="#10B981" opacity="0.65"/><rect x="436" y="43" width="6" height="40" rx="3" fill="#10B981" opacity="0.8"/><rect x="450" y="53" width="6" height="20" rx="3" fill="#10B981" opacity="0.5"/><rect x="464" y="46" width="6" height="34" rx="3" fill="#10B981" opacity="0.65"/><rect x="478" y="54" width="6" height="18" rx="3" fill="#10B981" opacity="0.8"/><rect x="492" y="48" width="6" height="30" rx="3" fill="#10B981" opacity="0.5"/><rect x="506" y="41" width="6" height="44" rx="3" fill="#10B981" opacity="0.65"/><rect x="520" y="51" width="6" height="24" rx="3" fill="#10B981" opacity="0.8"/><rect x="534" y="55" width="6" height="16" rx="3" fill="#10B981" opacity="0.5"/><rect x="548" y="44" width="6" height="38" rx="3" fill="#10B981" opacity="0.65"/><rect x="562" y="49" width="6" height="28" rx="3" fill="#10B981" opacity="0.8"/><rect x="576" y="52" width="6" height="22" rx="3" fill="#10B981" opacity="0.5"/><rect x="590" y="47" width="6" height="32" rx="3" fill="#10B981" opacity="0.65"/><rect x="604" y="54" width="6" height="18" rx="3" fill="#10B981" opacity="0.8"/>
+    <circle cx="640" cy="65" r="14" fill="#EF4444"/>
+    <rect x="635" y="60" width="10" height="10" rx="2" fill="#fff"/>
+
+    <!-- transcript left -->
+    <text x="24" y="118" font-family="'Segoe UI',Arial,sans-serif" font-size="13" font-weight="700" fill="#065F46">Live Transcript</text>
+    <rect x="24" y="130" width="22" height="22" rx="11" fill="#A7F3D0"/>
+    <rect x="56" y="132" width="340" height="7" rx="3" fill="#334155"/>
+    <rect x="56" y="146" width="280" height="7" rx="3" fill="#94A3B8"/>
+    <rect x="24" y="170" width="22" height="22" rx="11" fill="#BBF7D0"/>
+    <rect x="56" y="172" width="300" height="7" rx="3" fill="#334155"/>
+    <rect x="56" y="186" width="260" height="7" rx="3" fill="#94A3B8"/>
+    <rect x="24" y="210" width="22" height="22" rx="11" fill="#A7F3D0"/>
+    <rect x="56" y="212" width="320" height="7" rx="3" fill="#334155"/>
+    <rect x="56" y="226" width="200" height="7" rx="3" fill="#94A3B8"/>
+    <rect x="24" y="250" width="22" height="22" rx="11" fill="#BBF7D0"/>
+    <rect x="56" y="252" width="280" height="7" rx="3" fill="#334155"/>
+
+    <!-- action items right -->
+    <rect x="420" y="110" width="234" height="220" rx="12" fill="#ECFDF5" stroke="#A7F3D0"/>
+    <text x="438" y="136" font-family="'Segoe UI',Arial,sans-serif" font-size="13" font-weight="700" fill="#065F46">Action Items</text>
+
+    <rect x="438" y="154" width="16" height="16" rx="4" fill="#10B981"/>
+    <path d="M441 162 l3 3 l7 -7" stroke="#fff" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <rect x="462" y="156" width="170" height="7" rx="3" fill="#334155"/>
+
+    <rect x="438" y="186" width="16" height="16" rx="4" fill="#10B981"/>
+    <path d="M441 194 l3 3 l7 -7" stroke="#fff" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <rect x="462" y="188" width="150" height="7" rx="3" fill="#334155"/>
+
+    <rect x="438" y="218" width="16" height="16" rx="4" fill="#fff" stroke="#10B981" stroke-width="2"/>
+    <rect x="462" y="220" width="178" height="7" rx="3" fill="#334155"/>
+
+    <rect x="438" y="250" width="16" height="16" rx="4" fill="#fff" stroke="#10B981" stroke-width="2"/>
+    <rect x="462" y="252" width="140" height="7" rx="3" fill="#334155"/>
+
+    <text x="438" y="300" font-family="'Segoe UI',Arial,sans-serif" font-size="11" font-weight="600" fill="#10B981">AI Summary</text>
+    <rect x="438" y="308" width="200" height="6" rx="3" fill="#A7F3D0"/>
+    <rect x="438" y="318" width="160" height="6" rx="3" fill="#A7F3D0"/>
+  </g>
+</svg>
